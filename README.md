@@ -1,0 +1,2 @@
+# minishell
+Basic bash
